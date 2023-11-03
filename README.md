@@ -20,6 +20,8 @@ Currently, a Data Analyst with expertise areas related to Technological Innovati
 - ⚡ Fun fact: ...
 -->
 
+##
+
 #### You can also find me in:
 &nbsp;<a href="https://www.linkedin.com/in/fabiok03/">
   <img width='100' src="https://www.svgrepo.com/download/353999/linkedin.svg">
