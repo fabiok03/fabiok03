@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I'm Fabio 👋
+Undergraduated in Computer Science from Universidade Estadual Paulista (UNESP), master graduated in Computer Science from Universidade Estadual de Campinas (UNICAMP), and PH.D.  in Bioenergy - FEA/UNICAMP in partnership with Universidade de São Paulo (USP) and Universidade Estadual Paulista (UNESP). Currently, a Data Analyst with expertise areas related to Technological Innovation Analysis, Patents, Social Network Analysis (SNA) and Patent Citation Networks. I'm interested in Software development and Big Data Analysis involvig Python language.  
 <!--
 **fabiok03/fabiok03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
