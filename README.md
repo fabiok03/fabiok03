@@ -1,7 +1,7 @@
 ### Hi, I'm Fabio 👋
 Currently, a Data Analyst with expertise areas related to Technological Innovation Analysis, Patents, Social Network Analysis (SNA) and Patent Citation Networks. I'm interested in Software development and Big Data Analysis involvig Python language.
 
-- 🏫 **Undergraduation:** Computer Science from Universidade Estadual Paulista ([UNESP]([https://www.fc.unesp.br/#!/en/](https://www.fc.unesp.br/#!/english-version/departments/computing/)))
+- 🏫 **Undergraduation:** Computer Science from Universidade Estadual Paulista ([UNESP](https://www.fc.unesp.br/#!/english-version/departments/computing/))
 - 🏫 **Master:** Computer Science from Universidade Estadual de Campinas (UNICAMP)
 - 🏫 **PH.D.:** Bioenergy - FEA/UNICAMP in partnership with Universidade de São Paulo (USP) and Universidade Estadual Paulista (UNESP)
 <!-- - 🔭 I’m currently working on ...
