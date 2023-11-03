@@ -4,6 +4,10 @@ Currently, a Data Analyst with expertise areas related to Technological Innovati
 - 🏫 **Undergraduation:** Computer Science from Universidade Estadual Paulista ([UNESP](https://www.fc.unesp.br/#!/english-version/departments/computing/))
 - 🏫 **Master:** Computer Science from Universidade Estadual de Campinas (UNICAMP)
 - 🏫 **PH.D.:** Bioenergy - FEA/UNICAMP in partnership with Universidade de São Paulo (USP) and Universidade Estadual Paulista (UNESP)
+- 🌱 I’m currently learning:
+  
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
